@@ -34,4 +34,6 @@
 // git diff Verificar tudo antes do commit
 
 // git diff --name-only
+
+// git commit 
 // Teste01
