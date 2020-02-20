@@ -39,4 +39,9 @@
 
 // git checkout nomedoarquivo.js // volta ao passo antes da edição
 
+// git reset
+
+// git reset --soft --mixed -- hard
+
 // Teste01
+//Teste02 
