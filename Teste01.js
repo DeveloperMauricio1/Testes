@@ -36,4 +36,7 @@
 // git diff --name-only
 
 // git commit 
+
+// git checkout nomedoarquivo.js // volta ao passo antes da edição
+
 // Teste01
