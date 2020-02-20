@@ -11,9 +11,11 @@
 
 // git status
 
+//// git add qualquercoisa.js
+
 // git commit -m "Qualquer coisa"
 
-// git add qualquercoisa.js
+
 
 //git log //Verificar os logs
 
@@ -28,3 +30,8 @@
 // git log --graph
 
 // git show ...
+
+// git diff Verificar tudo antes do commit
+
+// git diff --name-only
+// Teste01
